@@ -1,14 +1,14 @@
 title: "Amber Ramsey" # your name (or website title) here
 logo: "/images/CSUheadshot144.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Soft Skills:
-  Communication ~ Problem Solving ~ Organized
+  Soft Skills:<br>
+  Communication ~ Problem Solving ~ Organized <br>
   Teamwork ~ Dependable ~ Creativity ~ Focused
   <br> <br>
-  Technology Skills:
-  Microsoft Office Suite ~ Google Services ~ Git
-  Github ~ Command Line ~ Sublime ~ Visual Studio Code
-  HTML ~ CSS ~ C++ ~ Java ~ Javascript ~ Perl ~ Shell ~ Visual Basic
+  Technology Skills: <br>
+  Microsoft Office Suite ~ Google Services ~ Git <br>
+  Github ~ Command Line ~ Sublime ~ Visual Studio Code <br>
+  HTML ~ CSS ~ C++ ~ Java ~ Javascript ~ Perl ~ Shell ~ Visual Basic <br>
   Hash Tables ~ Loops ~ Linked List ~ Arrays ~ etc.
   <br> <br>
   <a href="https://docs.google.com/document/d/1GE2j0K7DwDy1dIGv0gDwV8i0oFqSbrTz9cIEXFgoLJI/edit?usp=sharing">View My Resume</a> 
