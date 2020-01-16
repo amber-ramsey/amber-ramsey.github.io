@@ -20,12 +20,17 @@
 
 ---
 
+[Project 4 Title](http://example.com/)
+<br>
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
 ### Ethics Papers
 
 - [Paper 1 Title](http://example.com/)
 - [Paper 2 Title](http://example.com/)
 - [Paper 3 Title](http://example.com/)
-- [Paper 4 Title](http://example.com/)
 
 ---
 
