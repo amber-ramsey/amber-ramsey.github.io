@@ -1,6 +1,6 @@
 title: "Amber Ramsey" # your name (or website title) here
 logo: "/images/CSUheadshot144.jpg" # your photo (or logo) here
-description: | # your text below (remove <br> elements if you don't need line breaks)
+description: > # your text below (remove <br> elements if you don't need line breaks)
   Soft Skills:
   Communication ~ Problem Solving ~ Organized
   Teamwork ~ Dependable ~ Creativity ~ Focused
