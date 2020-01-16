@@ -3,7 +3,9 @@ logo: "/images/CSUheadshot144.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
   <br><br>
-  Second description 
+  Second description
+  <br><br>
+  <a href="https://docs.google.com/document/d/1GE2j0K7DwDy1dIGv0gDwV8i0oFqSbrTz9cIEXFgoLJI/edit?usp=sharing">View My Resume</a> 
   <br><br>
   <a href="https://www.linkedin.com/in/amber-ramsey-438368171">View My LinkedIn Profile</a> 
   
