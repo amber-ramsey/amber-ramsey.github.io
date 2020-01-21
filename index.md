@@ -6,19 +6,19 @@
 
 ##### Soft Skills:
   
-  Communication ~ Problem Solving ~ Teamwork ~ Dependable
+  Communication ~ Focused ~ Self-Motivated ~ Organized
   
-  Organized ~ Focused ~ Self-Motivated ~ Creativity
+  Creativity ~ Teamwork ~ Dependable ~ Problem Solving
   
 ##### Technology Skills:
 
-  Microsoft Office Suite ~ Google Services ~ Git ~ Github
+  Microsoft Office Suite ~ Google Services ~ Command Line ~ Git ~ Github
   
-  Command Line ~ Sublime ~ Visual Studio Code ~ HTML ~ CSS
+  Notepad++ ~ Sublime ~ Visual Studio Code ~ Vim ~ HTML ~ CSS ~ Markdown
   
-  C++ ~ Java ~ Javascript ~ Perl ~ Shell ~ Visual Basic
+  C ~ C++ ~ Java ~ Javascript ~ Perl ~ Shell ~ Python ~ Visual Basic
   
-  Hash Tables ~ Loops ~ Linked Lists ~ Arrays ~ etc.
+  Hash Tables ~ Loops ~ Linked Lists ~ Arrays ~ Maps ~ etc.
   
 ---
 
