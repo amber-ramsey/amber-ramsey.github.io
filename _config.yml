@@ -1,22 +1,8 @@
 title: "Amber Ramsey" # your name (or website title) here
 logo: "/images/CSUheadshot144.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Soft Skills:<br>
-  Communication ~ Problem Solving <br>
-  Teamwork ~ Dependable ~ Creativity <br>
-  Organized ~ Focused ~ Self-Motivated
-  <br> <br>
-  Technology Skills: <br>
-  Microsoft Office Suite ~ Google Services<br>
-  Git ~ Github ~ Command Line ~ Sublime <br>
-  Visual Studio Code ~ HTML ~ CSS ~ C++ <br>
-  Java ~ Javascript ~ Perl ~ Shell <br>
-  Visual Basic ~ Hash Tables ~ Loops <br>
-  Linked Lists ~ Arrays ~ etc.
-  <br> <br>
   <a href="https://docs.google.com/document/d/1GE2j0K7DwDy1dIGv0gDwV8i0oFqSbrTz9cIEXFgoLJI/edit?usp=sharing">View My Resume</a> 
   <br> <br>
   <a href="https://www.linkedin.com/in/amber-ramsey-438368171">View My LinkedIn Profile</a> 
-  <br> <br> <br>
 theme: "jekyll-theme-minimal"
-#google_analytics: "UA-000000-0" # your Google Analytics tracking ID here
+google_analytics: "UA-000000-0" # your Google Analytics tracking ID here
