@@ -4,13 +4,13 @@
 
 ### Skills
 
-#### Soft Skills:
+##### Soft Skills:
   
   Communication ~ Problem Solving ~ Teamwork ~ Dependable
   
   Organized ~ Focused ~ Self-Motivated ~ Creativity
   
-#### Technology Skills:
+##### Technology Skills:
 
   Microsoft Office Suite ~ Google Services ~ Git ~ Github
   
