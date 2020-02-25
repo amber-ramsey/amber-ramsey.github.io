@@ -42,7 +42,7 @@
 
 ### Ethics Papers
 
-- [Paper 1 Title](http://example.com/)
+- [THERAC-25: How Much Testing is Enough?](/DS Ethics Paper.docx)
 - [Paper 2 Title](http://example.com/)
 - [Paper 3 Title](http://example.com/)
 
