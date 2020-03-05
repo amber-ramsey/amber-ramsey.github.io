@@ -18,23 +18,31 @@
 
 ### Projects
 
-[Project 1 Title](/sample_page)
+[Project 1 Title](/sample_page)  
+Class:  
+Grade:  
 <br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Project 2 Title](/pdf/sample_presentation.pdf)  
+Class:  
+Grade:  
 <br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Project 3 Title](http://example.com/)  
+Class:  
+Grade:  
 <br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-[Project 4 Title](http://example.com/)
+[Project 4 Title](http://example.com/)  
+Class:  
+Grade:  
 <br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
@@ -42,16 +50,26 @@
 
 ### Ethics Papers
 
-- [THERAC-25: How Much Testing is Enough?](/DS Ethics Paper.docx)
-- [Paper 2 Title](http://example.com/)
-- [Paper 3 Title](http://example.com/)
+- [THERAC-25: How Much Testing is Enough?](/DS Ethics Paper.docx)  
+  Class: Data Structure Analysis  
+  Grade:  
+- [Paper 2 Title](http://example.com/)  
+  Class:  
+  Grade:  
+- [Paper 3 Title](http://example.com/)  
+  Class:  
+  Grade:  
 
 ---
 
 ### Presentations
 
-- [Sony Playstation Security Breach](https://youtu.be/esssEReJ99c)
-- [Presentation Title](http://example.com/)
+- [Sony Playstation Security Breach](https://youtu.be/esssEReJ99c)  
+  Class: Survey of Scripting Languages  
+  Grade: 100%  
+- [Ripple-Carry Adder](https://docs.google.com/presentation/d/1y-fy4Q30TYP0nPdgUIFEvORarMUUWeNnUso3PKB4f30/edit?usp=sharing)  
+  Class: Computer Architecture  
+  Grade:  
 
 ---
 
