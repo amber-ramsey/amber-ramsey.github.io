@@ -53,8 +53,8 @@ Grade:
 - [THERAC-25: How Much Testing is Enough?](/DS Ethics Paper.docx)  
   Class: Data Structure Analysis  
   Grade:  
-- [Paper 2 Title](http://example.com/)  
-  Class:  
+- [Intellectual Property Rights](/Network Ethics.docx)  
+  Class: Applied Networking  
   Grade:  
 - [Paper 3 Title](http://example.com/)  
   Class:  
