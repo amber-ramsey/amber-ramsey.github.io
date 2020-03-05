@@ -18,22 +18,22 @@
 
 ### Projects
 
-[Project 1 Title](/sample_page)  
-Class:  
+[Single-Cycle Processor](/sample_page)  
+Class: Computer Architecture  
 Grade:  
 <br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)  
-Class:  
+Class: Data Structure Analysis
 Grade:  
 <br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)  
-Class:  
+Class: Object-Oriented Programming  
 Grade:  
 <br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -41,7 +41,7 @@ Grade:
 ---
 
 [Project 4 Title](http://example.com/)  
-Class:  
+Class: Survey of Scripting Languages  
 Grade:  
 <br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -57,7 +57,7 @@ Grade:
   Class: Applied Networking  
   Grade:  
 - [Paper 3 Title](http://example.com/)  
-  Class:  
+  Class: Computer Architecture  
   Grade:  
 
 ---
