@@ -28,6 +28,7 @@ Grade:
 **[Project 2 Title](/pdf/sample_presentation.pdf)**  
 Class: Data Structure Analysis  
 Grade:  
+<br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -42,6 +43,7 @@ Grade:
 **[To-Do List](https://codepen.io/amber-ramsey/pen/yLLZRaK)**  
 Class: Survey of Scripting Languages  
 Grade:  
+<br>
 <img src="images/scripting portfolio pic.PNG?raw=true" width="500" height="350"/>
 
 ---
@@ -71,5 +73,5 @@ Grade:
 
 ---
 
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<p style="font-size:12px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
