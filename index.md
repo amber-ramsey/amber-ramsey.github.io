@@ -4,21 +4,21 @@
 
 ### Skills
 
-##### **Soft Skills:**
-  Communication ~ Focused ~ Self-Motivated ~ Organized  
-  Creativity ~ Teamwork ~ Dependable ~ Problem Solving  
+**Soft Skills:**  
+Communication ~ Focused ~ Self-Motivated ~ Organized  
+Creativity ~ Teamwork ~ Dependable ~ Problem Solving  
   
-##### **Technology Skills:**
-  Microsoft Office Suite ~ Google Services ~ Command Line ~ Git ~ Github  
-  Notepad++ ~ Sublime ~ Visual Studio Code ~ Vim ~ HTML ~ CSS ~ Markdown  
-  C ~ C++ ~ Java ~ Javascript ~ Perl ~ Shell ~ Python ~ Visual Basic   
-  OOP ~ Hash Tables ~ Loops ~ Linked Lists ~ Arrays ~ Maps ~ etc.  
+**Technology Skills:**  
+Microsoft Office Suite ~ Google Services ~ Command Line ~ Git ~ Github  
+Notepad++ ~ Sublime ~ Visual Studio Code ~ Vim ~ HTML ~ CSS ~ Markdown  
+C ~ C++ ~ Java ~ Javascript ~ Perl ~ Shell ~ Python ~ Visual Basic   
+OOP ~ Hash Tables ~ Loops ~ Linked Lists ~ Arrays ~ Maps ~ etc.  
   
 ---
 
 ### Projects
 
-[**Single-Cycle Processor**](/sample_page)  
+**[Single-Cycle Processor](/sample_page)**  
 Class: Computer Architecture  
 Grade:  
 <br>
