@@ -19,8 +19,8 @@ OOP ~ Hash Tables ~ Loops ~ Linked Lists ~ Arrays ~ Maps ~ etc.
 ### **Projects**
 
 **[Single-Cycle Processor](/sample_page)**  
-Class: Computer Architecture  
-Grade:  
+**Class:** Computer Architecture  
+**Grade:**  
 <br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
