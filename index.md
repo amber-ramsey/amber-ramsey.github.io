@@ -18,7 +18,7 @@
 
 ### Projects
 
-[Single-Cycle Processor](/sample_page)  
+[**Single-Cycle Processor**](/sample_page)  
 Class: Computer Architecture  
 Grade:  
 <br>
