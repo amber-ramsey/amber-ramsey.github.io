@@ -26,23 +26,23 @@ OOP ~ Hash Tables ~ Loops ~ Linked Lists ~ Arrays ~ Maps ~ etc.
 
 ---
 **[Project 2 Title](/pdf/sample_presentation.pdf)**  
-Class: Data Structure Analysis  
-Grade:  
+**Class:** Data Structure Analysis  
+**Grade:**  
 <br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 **[Project 3 Title](http://example.com/)**  
-Class: Object-Oriented Programming  
-Grade:  
+**Class:** Object-Oriented Programming  
+**Grade:**  
 <br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
 **[To-Do List](https://codepen.io/amber-ramsey/pen/yLLZRaK)**  
-Class: Survey of Scripting Languages  
-Grade:  
+**Class:** Survey of Scripting Languages  
+**Grade:**  
 <br>
 <img src="images/scripting portfolio pic.PNG?raw=true" width="500" height="350"/>
 
@@ -51,27 +51,27 @@ Grade:
 ### **Ethics Papers**
 
 - **[THERAC-25: How Much Testing is Enough?](/DS Ethics Paper.docx)**  
-  Class: Data Structure Analysis  
-  Grade:  
+  **Class:** Data Structure Analysis  
+  **Grade:**  
 - **[Intellectual Property Rights](/Network Ethics.docx)**  
-  Class: Applied Networking  
-  Grade:  
+  **Class:** Applied Networking  
+  **Grade:**  
 - **[Paper 3 Title](http://example.com/)**  
-  Class: Computer Architecture  
-  Grade:  
+  **Class:** Computer Architecture  
+  **Grade:**  
 
 ---
 
 ### **Presentations**
 
 - **[Sony Playstation Security Breach](https://youtu.be/esssEReJ99c)**  
-  Class: Survey of Scripting Languages  
-  Grade: 100%  
+  **Class:** Survey of Scripting Languages  
+  **Grade:** 100%  
 - **[Ripple-Carry Adder](https://docs.google.com/presentation/d/1y-fy4Q30TYP0nPdgUIFEvORarMUUWeNnUso3PKB4f30/edit?usp=sharing)**  
-  Class: Computer Architecture  
-  Grade:  
+  **Class:** Computer Architecture  
+  **Grade:**  
 
 ---
 
-<p style="font-size:12px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
