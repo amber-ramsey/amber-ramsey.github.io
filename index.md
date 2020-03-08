@@ -44,7 +44,7 @@ Grade:
 Class: Survey of Scripting Languages  
 Grade:  
 <br>
-<img src="images/scripting portfolio pic.png"/>
+<img src="images/scripting portfolio pic.PNG?raw=true"/>
 
 ---
 
