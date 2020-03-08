@@ -26,9 +26,8 @@ Grade:
 
 ---
 **[Project 2 Title](/pdf/sample_presentation.pdf)**  
-Class: Data Structure Analysis
+Class: Data Structure Analysis  
 Grade:  
-<br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -43,7 +42,6 @@ Grade:
 **[To-Do List](https://codepen.io/amber-ramsey/pen/yLLZRaK)**  
 Class: Survey of Scripting Languages  
 Grade:  
-<br>
 <img src="images/scripting portfolio pic.PNG?raw=true" width="500" height="350"/>
 
 ---
