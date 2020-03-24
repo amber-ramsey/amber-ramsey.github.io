@@ -56,7 +56,7 @@ OOP ~ Hash Tables ~ Loops ~ Linked Lists ~ Arrays ~ Maps ~ etc.
 - **[Intellectual Property Rights](/Network Ethics.docx)**  
   **Class:** Applied Networking  
   **Grade:**  
-- **[To Meme, Or Not To Meme, That is the Question](http://example.com/)**  
+- **[To Meme, Or Not To Meme, That is the Question](/Arch Ethics Paper.docx)**  
   **Class:** Computer Architecture  
   **Grade:**  
 
