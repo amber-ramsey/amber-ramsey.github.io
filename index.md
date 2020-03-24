@@ -25,7 +25,7 @@ OOP ~ Hash Tables ~ Loops ~ Linked Lists ~ Arrays ~ Maps ~ etc.
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-**[Project 2 Title](/pdf/sample_presentation.pdf)**  
+**[HTML Parser](/pdf/sample_presentation.pdf)**  
 **Class:** Data Structure Analysis  
 **Grade:**  
 <br>
@@ -52,11 +52,11 @@ OOP ~ Hash Tables ~ Loops ~ Linked Lists ~ Arrays ~ Maps ~ etc.
 
 - **[THERAC-25: How Much Testing is Enough?](/DS Ethics Paper.docx)**  
   **Class:** Data Structure Analysis  
-  **Grade:**  
+  **Grade:** 70%  
 - **[Intellectual Property Rights](/Network Ethics.docx)**  
   **Class:** Applied Networking  
   **Grade:**  
-- **[Paper 3 Title](http://example.com/)**  
+- **[To Meme, Or Not To Meme, That is the Question](http://example.com/)**  
   **Class:** Computer Architecture  
   **Grade:**  
 
@@ -69,7 +69,7 @@ OOP ~ Hash Tables ~ Loops ~ Linked Lists ~ Arrays ~ Maps ~ etc.
   **Grade:** 100%  
 - **[Ripple-Carry Adder](https://docs.google.com/presentation/d/1y-fy4Q30TYP0nPdgUIFEvORarMUUWeNnUso3PKB4f30/edit?usp=sharing)**  
   **Class:** Computer Architecture  
-  **Grade:**  
+  **Grade:** 100%  
 
 ---
 
