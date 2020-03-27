@@ -5,13 +5,14 @@
 ### **Skills**
 
 **Soft Skills:**  
-Communication ~ Focused ~ Self-Motivated ~ Organized  
-Creativity ~ Teamwork ~ Dependable ~ Problem Solving  
+Communication ~ Focused ~ Self-Motivated ~ Organized ~ Simplification  
+Creativity ~ Teamwork ~ Dependable ~ Problem Solving ~ Teaching  
+Leadership ~ Adaptability ~ Research ~ Conflict Resolution
   
 **Technology Skills:**    
-Git Version Control ~ Command Line ~ Agile ~ HTML ~ CSS ~ Markdown  
-Perl ~ Shell ~ Python ~ Javascript ~ Visual Basic ~ C++ ~ Java ~ OOP  
-iVerilog ~ Wire Framing ~ Microsoft Office Suite ~ Google Services ~ etc.  
+C++ ~ Java ~ OOP ~ Visual Basic ~ iVerilog ~ Perl ~ Shell ~ Python    
+Javascript ~ HTML ~ CSS ~ Markdown ~ Git Version Control ~ Bash Command Line    
+Agile ~ Wire Framing ~ Microsoft Office Suite ~ Google Services ~ etc.  
   
 ---
 
