@@ -31,14 +31,14 @@ Agile ~ Wire Framing ~ Microsoft Office Suite ~ Google Services ~ etc.
 **Class:** Data Structure Analysis  
 **Grade:**  
 <br>
-<img src="images/dummy_thumbnail.jpg?raw=true" width="500" height="350"/>
+<img src="template/dummy_thumbnail.jpg?raw=true" width="500" height="350"/>
 
 ---
 **[Project Title](https://github.com/amber-ramsey/portfolio){:target="_blank"}**  
 **Class:** Object-Oriented Programming  
 **Grade:**  
 <br>
-<img src="images/dummy_thumbnail.jpg?raw=true" width="500" height="350"/>
+<img src="template/dummy_thumbnail.jpg?raw=true" width="500" height="350"/>
 
 ---
 
