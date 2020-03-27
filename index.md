@@ -31,14 +31,14 @@ OOP ~ Hash Tables ~ Loops ~ Linked Lists ~ Arrays ~ Maps ~ etc.
 **Class:** Data Structure Analysis  
 **Grade:**  
 <br>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/dummy_thumbnail.jpg?raw=true" width="500" height="350"/>
 
 ---
 **[Project 3 Title](https://github.com/amber-ramsey/portfolio)**  
 **Class:** Object-Oriented Programming  
 **Grade:**  
 <br>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/dummy_thumbnail.jpg?raw=true" width="500" height="350"/>
 
 ---
 
