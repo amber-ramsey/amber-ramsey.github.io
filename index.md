@@ -18,7 +18,7 @@ OOP ~ Hash Tables ~ Loops ~ Linked Lists ~ Arrays ~ Maps ~ etc.
 
 ### **Projects**
 
-#### For access to my private portfolio on Github, please [email me](amber.ramsey215@gmail.com) with the subject line, Github Access.  
+#### *For access to my private portfolio on Github, please [email me](amber.ramsey215@gmail.com) with the subject line, Github Access.  
 
 **[Single-Cycle Processor](/sample_page)**  
 **Class:** Computer Architecture  
