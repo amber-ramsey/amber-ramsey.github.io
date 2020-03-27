@@ -20,21 +20,21 @@ OOP ~ Hash Tables ~ Loops ~ Linked Lists ~ Arrays ~ Maps ~ etc.
 
 #### *For access to my private portfolio on Github, please [email me](amber.ramsey215@gmail.com) with the subject line, Github Access.  
 
-**[Single-Cycle Processor](/sample_page)**  
+**[Single-Cycle Processor](https://github.com/amber-ramsey/portfolio/Single-Cycle-Processor)**  
 **Class:** Computer Architecture  
 **Grade:**  
 <br>
 <img src="images/singlecycleprocessor.png?raw=true" width="500" height="350"/>
 
 ---
-**[HTML Parser](/pdf/sample_presentation.pdf)**  
+**[HTML Parser](https://github.com/amber-ramsey/portfolio/HTML-Parser)**  
 **Class:** Data Structure Analysis  
 **Grade:**  
 <br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-**[Project 3 Title](http://example.com/)**  
+**[Project 3 Title](https://github.com/amber-ramsey/portfolio)**  
 **Class:** Object-Oriented Programming  
 **Grade:**  
 <br>
