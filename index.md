@@ -20,21 +20,21 @@ Agile ~ Wire Framing ~ Microsoft Office Suite ~ Google Services ~ etc.
 
 #### *For access to my private portfolio on Github, please [email me](amber.ramsey215@gmail.com) with the subject line, Github Access.  
 
-**[Single-Cycle Processor](https://github.com/amber-ramsey/portfolio/Single-Cycle-Processor)**  
+**[Single-Cycle Processor](https://github.com/amber-ramsey/portfolio/Single-Cycle-Processor){:target="_blank"}**  
 **Class:** Computer Architecture  
 **Grade:**  
 <br>
 <img src="images/singlecycleprocessor.png?raw=true" width="500" height="350"/>
 
 ---
-**[HTML Parser](https://github.com/amber-ramsey/portfolio/HTML-Parser)**  
+**[HTML Parser](https://github.com/amber-ramsey/portfolio/HTML-Parser){:target="_blank"}**  
 **Class:** Data Structure Analysis  
 **Grade:**  
 <br>
 <img src="images/dummy_thumbnail.jpg?raw=true" width="500" height="350"/>
 
 ---
-**[Project 3 Title](https://github.com/amber-ramsey/portfolio)**  
+**[Project 3 Title](https://github.com/amber-ramsey/portfolio){:target="_blank"}**  
 **Class:** Object-Oriented Programming  
 **Grade:**  
 <br>
@@ -42,7 +42,7 @@ Agile ~ Wire Framing ~ Microsoft Office Suite ~ Google Services ~ etc.
 
 ---
 
-**[To-Do List](https://codepen.io/amber-ramsey/pen/yLLZRaK)**  
+**[To-Do List](https://codepen.io/amber-ramsey/pen/yLLZRaK){:target="_blank"}**  
 **Class:** Survey of Scripting Languages  
 **Grade:** 100%  
 <br>
@@ -52,13 +52,13 @@ Agile ~ Wire Framing ~ Microsoft Office Suite ~ Google Services ~ etc.
 
 ### **Ethics Papers**
 
-- **[THERAC-25: How Much Testing is Enough?](/DS Ethics Paper.docx)**  
+- **[THERAC-25: How Much Testing is Enough?](https://drive.google.com/open?id=19GP49sL-eQ3qxJYdo39uoEOzC4SM5VmV){:target="_blank"}**  
   **Class:** Data Structure Analysis  
   **Grade:** 70%  
-- **[Intellectual Property Rights](/Network Ethics.docx)**  
+- **[Intellectual Property Rights](https://drive.google.com/open?id=1eUMaInn2lD8be3HHOWWXiogteJA1-4sM){:target="_blank"}**  
   **Class:** Applied Networking  
   **Grade:**  
-- **[To Meme, Or Not To Meme, That is the Question](/Arch Ethics Paper.docx)**  
+- **[To Meme, Or Not To Meme, That is the Question](https://drive.google.com/open?id=1QsVYYy2wgUAOhKw_b2iqIDPfsEhOIVYW){:target="_blank"}**  
   **Class:** Computer Architecture  
   **Grade:**  
 
@@ -66,10 +66,10 @@ Agile ~ Wire Framing ~ Microsoft Office Suite ~ Google Services ~ etc.
 
 ### **Presentations**
 
-- **[Sony Playstation Security Breach](https://youtu.be/esssEReJ99c)**  
+- **[Sony Playstation Security Breach](https://youtu.be/esssEReJ99c){:target="_blank"}**  
   **Class:** Survey of Scripting Languages  
   **Grade:** 100%  
-- **[Ripple-Carry Adder](https://docs.google.com/presentation/d/1y-fy4Q30TYP0nPdgUIFEvORarMUUWeNnUso3PKB4f30/edit?usp=sharing)**  
+- **[Ripple-Carry Adder](https://docs.google.com/presentation/d/1y-fy4Q30TYP0nPdgUIFEvORarMUUWeNnUso3PKB4f30/edit?usp=sharing){:target="_blank"}**  
   **Class:** Computer Architecture  
   **Grade:** 100%  
 
