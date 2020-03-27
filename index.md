@@ -18,7 +18,7 @@ Agile ~ Wire Framing ~ Microsoft Office Suite ~ Google Services ~ etc.
 
 ### **Projects**
 
-#### *For access to my private portfolio on Github, please [email me](amber.ramsey215@gmail.com) with the subject line, Github Access.  
+#### *For access to my private portfolio on Github, please [email me](amber.ramsey215@gmail.com){:target="_blank"} with the subject line, Github Access.  
 
 **[Single-Cycle Processor](https://github.com/amber-ramsey/portfolio/Single-Cycle-Processor){:target="_blank"}**  
 **Class:** Computer Architecture  
