@@ -10,9 +10,8 @@ Creativity ~ Teamwork ~ Dependable ~ Problem Solving
   
 **Technology Skills:**  
 Microsoft Office Suite ~ Google Services ~ Command Line ~ Git ~ Github  
-Notepad++ ~ Sublime ~ Visual Studio Code ~ Vim ~ HTML ~ CSS ~ Markdown  
-C ~ C++ ~ Java ~ Javascript ~ Perl ~ Shell ~ Python ~ Visual Basic   
-OOP ~ Hash Tables ~ Loops ~ Linked Lists ~ Arrays ~ Maps ~ etc.  
+HTML ~ CSS ~ Markdown ~ C++ ~ Java ~ Javascript ~ Perl ~ Shell  
+Python ~ Visual Basic ~ iVerilog ~ Wire Framing ~ OOP ~ etc.  
   
 ---
 
