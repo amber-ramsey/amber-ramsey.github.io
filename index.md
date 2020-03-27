@@ -27,14 +27,14 @@ Agile ~ Wire Framing ~ Microsoft Office Suite ~ Google Services ~ etc.
 <img src="images/singlecycleprocessor.png?raw=true" width="500" height="350"/>
 
 ---
-**[HTML Parser](https://github.com/amber-ramsey/portfolio/HTML-Parser){:target="_blank"}**  
+**[Project Title](https://github.com/amber-ramsey/portfolio){:target="_blank"}**  
 **Class:** Data Structure Analysis  
 **Grade:**  
 <br>
 <img src="images/dummy_thumbnail.jpg?raw=true" width="500" height="350"/>
 
 ---
-**[Project 3 Title](https://github.com/amber-ramsey/portfolio){:target="_blank"}**  
+**[Project Title](https://github.com/amber-ramsey/portfolio){:target="_blank"}**  
 **Class:** Object-Oriented Programming  
 **Grade:**  
 <br>
