@@ -10,7 +10,7 @@ Creativity ~ Teamwork ~ Dependable ~ Problem Solving ~ Teaching
 Leadership ~ Adaptability ~ Research ~ Conflict Resolution
   
 **Technology Skills:**    
-C++ ~ Java ~ OOP ~ Visual Basic ~ iVerilog ~ Perl ~ Shell ~ Python ~ Javascript
+C++ ~ Java ~ OOP ~ Visual Basic ~ iVerilog ~ Perl ~ Shell ~ Python ~ Javascript  
 HTML ~ CSS ~ Markdown ~ Git Version Control ~ Bash Command Line    
 Agile ~ Wire Framing ~ Microsoft Office Suite ~ Google Services ~ etc.  
   
