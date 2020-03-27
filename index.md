@@ -42,7 +42,7 @@ OOP ~ Hash Tables ~ Loops ~ Linked Lists ~ Arrays ~ Maps ~ etc.
 
 **[To-Do List](https://codepen.io/amber-ramsey/pen/yLLZRaK)**  
 **Class:** Survey of Scripting Languages  
-**Grade:**  
+**Grade:** 100%  
 <br>
 <img src="images/scripting portfolio pic.PNG?raw=true" width="500" height="350"/>
 
