@@ -22,7 +22,7 @@ OOP ~ Hash Tables ~ Loops ~ Linked Lists ~ Arrays ~ Maps ~ etc.
 **Class:** Computer Architecture  
 **Grade:**  
 <br>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/singlecycleprocessor.png?raw=true" width="500" height="350"/>
 
 ---
 **[HTML Parser](/pdf/sample_presentation.pdf)**  
