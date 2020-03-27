@@ -8,10 +8,10 @@
 Communication ~ Focused ~ Self-Motivated ~ Organized  
 Creativity ~ Teamwork ~ Dependable ~ Problem Solving  
   
-**Technology Skills:**  
-Microsoft Office Suite ~ Google Services ~ Command Line ~ Git ~ Github  
-HTML ~ CSS ~ Markdown ~ C++ ~ Java ~ Javascript ~ Perl ~ Shell  
-Python ~ Visual Basic ~ iVerilog ~ Wire Framing ~ OOP ~ etc.  
+**Technology Skills:**    
+Git Version Control ~ Command Line ~ Agile ~ HTML ~ CSS ~ Markdown  
+Perl ~ Shell ~ Python ~ Javascript ~ Visual Basic ~ C++ ~ Java ~ OOP  
+iVerilog ~ Wire Framing ~ Microsoft Office Suite ~ Google Services ~ etc.  
   
 ---
 
