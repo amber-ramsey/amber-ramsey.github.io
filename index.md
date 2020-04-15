@@ -27,16 +27,16 @@ Agile ~ Wire Framing ~ Microsoft Office Suite ~ Google Services ~ etc.
 <img src="images/singlecycleprocessor.png?raw=true" width="500" height="350"/>
 
 ---
-**[Project Title](https://github.com/amber-ramsey/portfolio){:target="_blank"}**  
+**[Binary Tree Balancing Research](https://github.com/amber-ramsey/ds){:target="_blank"}**  
 **Class:** Data Structure Analysis  
-**Grade:**  
+**Grade:** 100%  
 <br>
 <img src="template/dummy_thumbnail.jpg?raw=true" width="500" height="350"/>
 
 ---
-**[Project Title](https://github.com/amber-ramsey/portfolio){:target="_blank"}**  
+**[Pizza Checkboxes](https://github.com/amber-ramsey/oop){:target="_blank"}**  
 **Class:** Object-Oriented Programming  
-**Grade:**  
+**Grade:** 100%  
 <br>
 <img src="template/dummy_thumbnail.jpg?raw=true" width="500" height="350"/>
 
@@ -57,7 +57,7 @@ Agile ~ Wire Framing ~ Microsoft Office Suite ~ Google Services ~ etc.
   **Grade:** 70%  
 - **[Intellectual Property Rights](https://drive.google.com/open?id=1eUMaInn2lD8be3HHOWWXiogteJA1-4sM){:target="_blank"}**  
   **Class:** Applied Networking  
-  **Grade:**  
+  **Grade:** 80%  
 - **[To Meme, Or Not To Meme, That is the Question](https://drive.google.com/open?id=1QsVYYy2wgUAOhKw_b2iqIDPfsEhOIVYW){:target="_blank"}**  
   **Class:** Computer Architecture  
   **Grade:**  
