@@ -37,8 +37,8 @@ Agile ~ Wire Framing ~ Microsoft Office Suite ~ Google Services ~ etc.
 ---
 
 **[Aptitude Test Research](https://github.com/amber-ramsey/ds){:target="_blank"}**  
-**Class:** Computer Science Research 
-**Grade:** 100%  
+**Class:** Computer Science Research  
+**Grade:** 90%  
 <br>
 <img src="template/dummy_thumbnail.jpg?raw=true" width="500" height="350"/>
 
@@ -48,7 +48,7 @@ Agile ~ Wire Framing ~ Microsoft Office Suite ~ Google Services ~ etc.
 **Class:** Data Structure Analysis  
 **Grade:** 100%  
 <br>
-<img src="images/project3-1.pdf" width="250" height="350"/><img src="images/project3-2.pdf" width="250" height="350"/>
+<img src="images/Insertion.pdf" width="250" height="350"/><img src="images/Deletion.pdf" width="250" height="350"/>
 
 ---
 
