@@ -48,7 +48,7 @@ Agile ~ Wire Framing ~ Microsoft Office Suite ~ Google Services ~ etc.
 **Class:** Data Structure Analysis  
 **Grade:** 100%  
 <br>
-<img src="images/Insertion.pdf" width="250" height="350"/><img src="images/Deletion.pdf" width="250" height="350"/>
+<img src="images/Insertion.png?raw=true" width="250" height="350"/><img src="images/Deletion.png?raw=true" width="250" height="350"/>
 
 ---
 
