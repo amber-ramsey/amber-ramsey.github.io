@@ -10,7 +10,7 @@ Creativity ~ Teamwork ~ Dependable ~ Problem Solving ~ Teaching
 Leadership ~ Adaptability ~ Research ~ Conflict Resolution
   
 **Technology Skills:**    
-C++ ~ Java ~ OOP ~ Visual Basic ~ iVerilog ~ Perl ~ Shell ~ Python ~ Javascript  
+C++ ~ Java ~ OOP ~ iVerilog ~ Perl ~ Shell ~ Python ~ Javascript  
 HTML ~ CSS ~ Markdown ~ Git Version Control ~ Bash Command Line    
 Agile ~ Wire Framing ~ Microsoft Office Suite ~ Google Services ~ etc.  
   
@@ -18,7 +18,7 @@ Agile ~ Wire Framing ~ Microsoft Office Suite ~ Google Services ~ etc.
 
 ### **Projects**
 
-#### *For access to my private portfolio on Github, please [email me](amber.ramsey215@gmail.com){:target="_blank"} with the subject line, Github Access.  
+##### *For access to my private portfolio on Github, please [email me](amber.ramsey215@gmail.com){:target="_blank"} with the subject line, Github Access.  
 
 **[Rae's Riding Lessons](https://github.com/HAWhitley/RRLWeb){:target="_blank"}**  
 **Class:** Systems Analysis and Software Design  
@@ -38,9 +38,9 @@ Agile ~ Wire Framing ~ Microsoft Office Suite ~ Google Services ~ etc.
 
 **[Aptitude Test Research](https://github.com/amber-ramsey/ds){:target="_blank"}**  
 **Class:** Computer Science Research  
-**Grade:** 90%  
+**Grade:** In Progress  
 <br>
-<img src="template/dummy_thumbnail.jpg?raw=true" width="500" height="350"/>
+<!-- <img src="template/dummy_thumbnail.jpg?raw=true" width="500" height="350"/>  
 
 ---
 
