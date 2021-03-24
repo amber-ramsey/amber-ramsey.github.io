@@ -32,7 +32,7 @@ Agile ~ Wire Framing ~ Microsoft Office Suite ~ Google Services ~ etc.
 **Class:** Computer Science Research  
 **Grade:** 90%  
 <br>
-<img src="https://drive.google.com/file/d/1DlkKvH1czGib6jgclBLHy70B3ONW9FNU/view?usp=sharing" width="500" height="350"/>
+<img src="https://drive.google.com/file/d/1ALK7c4jmcD2nlzMgtoZNO7KUD83_cNOQ/view?usp=sharing" width="500" height="350"/>
 
 ---
 
