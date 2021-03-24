@@ -20,25 +20,36 @@ Agile ~ Wire Framing ~ Microsoft Office Suite ~ Google Services ~ etc.
 
 #### *For access to my private portfolio on Github, please [email me](amber.ramsey215@gmail.com){:target="_blank"} with the subject line, Github Access.  
 
-**[Single-Cycle Processor](https://github.com/amber-ramsey/arch){:target="_blank"}**  
-**Class:** Computer Architecture  
-**Grade:**  
+**[Rae's Riding Lessons](https://github.com/HAWhitley/RRLWeb){:target="_blank"}**  
+**Class:** Systems Analysis and Software Design  
+**Grade:** 100%  
 <br>
-<img src="images/singlecycleprocessor.png?raw=true" width="500" height="350"/>
+<img src="template/dummy_thumbnail.jpg?raw=true" width="500" height="350"/>
 
 ---
+
+**[Best Introductory Programming Languages Research](https://drive.google.com/file/d/1DlkKvH1czGib6jgclBLHy70B3ONW9FNU/view?usp=sharing){:target="_blank"}**  
+**Class:** Computer Science Research  
+**Grade:** 90%  
+<br>
+<img src="https://drive.google.com/file/d/1DlkKvH1czGib6jgclBLHy70B3ONW9FNU/view?usp=sharing" width="500" height="350"/>
+
+---
+
+**[Aptitude Test Research](https://github.com/amber-ramsey/ds){:target="_blank"}**  
+**Class:** Computer Science Research 
+**Grade:** 100%  
+<br>
+<img src="template/dummy_thumbnail.jpg?raw=true" width="500" height="350"/>
+
+---
+
 **[Binary Tree Balancing Research](https://github.com/amber-ramsey/ds){:target="_blank"}**  
 **Class:** Data Structure Analysis  
 **Grade:** 100%  
 <br>
-<img src="template/dummy_thumbnail.jpg?raw=true" width="500" height="350"/>
-
----
-**[Pizza Checkboxes](https://github.com/amber-ramsey/oop){:target="_blank"}**  
-**Class:** Object-Oriented Programming  
-**Grade:** 100%  
-<br>
-<img src="template/dummy_thumbnail.jpg?raw=true" width="500" height="350"/>
+<img src="https://drive.google.com/file/d/1Qx1x1fRE0johFQS6T2rlAr1f6yCDHLE2/view?usp=sharing" width="250" height="350"/>
+<img src="https://drive.google.com/file/d/1U61dNKKaWEO0520CT_c2hYfgSAw_uSUL/view?usp=sharing" width="250" height="350"/>
 
 ---
 
@@ -58,9 +69,9 @@ Agile ~ Wire Framing ~ Microsoft Office Suite ~ Google Services ~ etc.
 - **[Intellectual Property Rights](https://drive.google.com/open?id=1eUMaInn2lD8be3HHOWWXiogteJA1-4sM){:target="_blank"}**  
   **Class:** Applied Networking  
   **Grade:** 80%  
-- **[To Meme, Or Not To Meme, That is the Question](https://drive.google.com/open?id=1QsVYYy2wgUAOhKw_b2iqIDPfsEhOIVYW){:target="_blank"}**  
+- **[To Meme, Or Not To Meme, That is the Question](https://drive.google.com/file/d/1FFw1WbWL7WApfXW1Yt5uZgcImldpEbor/view?usp=sharing){:target="_blank"}**  
   **Class:** Computer Architecture  
-  **Grade:**  
+  **Grade:** 100%  
 
 ---
 
